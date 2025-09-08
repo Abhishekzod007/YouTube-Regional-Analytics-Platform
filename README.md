@@ -80,3 +80,6 @@ Below is the architecture diagram for the YouTube Regional Analytics Platform:
 
 <img width="829" height="463" alt="image" src="https://github.com/user-attachments/assets/06b78ddc-3d89-4715-a67d-c0eebe15a4c1" />
 
+
+## Dashboard for an example
+https://us-east-1.quicksight.aws.amazon.com/sn/account/Abhishek-Chaudhary-007/dashboards/4e486d9e-ffc6-4ec0-ab4e-429db0ae4680/views/58067eff-646b-4fe5-a3d3-83847ceaa066
